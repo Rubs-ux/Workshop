@@ -3,7 +3,7 @@ This is git test file
 this is another line
 
 git init
-git remote add origin {ur}
+git remote add origin {url}
 git add.
 git commit -m "commit message"
 git push -u origin {branchname}
